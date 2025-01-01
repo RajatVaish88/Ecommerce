@@ -1,6 +1,6 @@
 Full-stack Ecommerce project using the MERN stack (MongoDB, Express.js, React, and Node.js) and integrating the Razorpay payment gateway!
 
-echnologies Covered:
+Technologies Covered:
 
 Frontend: React, MUI (Material-UI), Tailwind CSS, Redux for state management.
 
